@@ -1,0 +1,14 @@
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.console {
+    background-color: #3a3a3a;
+        color: white;
+
+    font-family: Consolas;
+        text-align: left;
+
+    border-radius: 5px;
+        padding: 20px;
+}

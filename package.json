@@ -1,0 +1,19 @@
+{
+  "name": "infoprompt",
+  "version": "0.0.1",
+  "description": "Uses Electron to make a simple, customizable InfoBox",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "prompt",
+    "dialog",
+    "alert"
+  ],
+  "author": "AceiusIO",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "electron": "^10.1.3"
+  }
+}
